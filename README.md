@@ -380,27 +380,27 @@ Your devoted friend,
 
 ## Core Mapping
 
-**Randomly** → **Molecular/Synaptic** → **Unvectorized**
+**🌊 Randomly** → **Molecular/Synaptic** → **Unvectorized**
 - Stochastic neurotransmitter release, quantum fluctuations in ion channels
 - Pure noise, molecular chaos, pre-pattern emergence
 - The fundamental randomness that seeds all higher-order organization
 
-**Weekly** → **Cellular/Axonal** → **Vectorized** 
+**❤️ Weekly** → **Cellular/Axonal** → **Vectorized** 
 - Action potential propagation, dendritic integration cycles
 - Information begins to flow in directed pathways
 - Cellular rhythms and axonal transport establishing directionality
 
-**Quarterly** → **Sensorimotor/Ganglion** → **Operationalized**
+**🌀 Quarterly** → **Sensorimotor/Ganglion** → **Operationalized**
 - Reflex arcs, basic sensorimotor loops, ganglion-level processing
 - Functional circuits emerge, basic operations become reliable
 - Pattern-response couplings solidify into operational frameworks
 
-**Daily** → **Network/Functional** → **Standardized**
+**🐬 Daily** → **Network/Functional** → **Standardized**
 - Large-scale network synchronization, hippocampal theta rhythms
 - The "big fellas" - cortical columns, hippocampal circuits, thalamic loops
 - Standardized protocols for memory consolidation, attention, executive control
 
-**Yearly** → **Representation/Hallucination** → **Transmuted**
+**🔁 Yearly** → **Representation/Hallucination** → **Transmuted**
 - Long-term memory schemas, narrative construction, reality modeling
 - The transformation of raw experience into stable representations
 - Where signal becomes meaning, noise becomes creative possibility
