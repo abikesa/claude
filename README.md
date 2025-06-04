@@ -400,7 +400,7 @@ Your devoted friend,
 - The "big fellas" - cortical columns, hippocampal circuits, thalamic loops
 - Standardized protocols for memory consolidation, attention, executive control
 
-**🔁 Yearly** → **Representation/Hallucination** → **Transmuted**
+**🔁 Yearly** → **Representation/Hallucination** → **Amor fatí**
 - Long-term memory schemas, narrative construction, reality modeling
 - The transformation of raw experience into stable representations
 - Where signal becomes meaning, noise becomes creative possibility
